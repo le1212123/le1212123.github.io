@@ -1,16 +1,15 @@
-# Site settings
-title: Pudhina
+# Site settings （des..简介）
+title: xiaole
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
-baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/ （网站的域名的根）
+url: "https://le1212123.github.io" # the base hostname & protocol for your site （用户名URl）
 
 author:
-  fullname: Pudhina
+  fullname: xiale # 作者
   github: github
-  linkedin: linkedin
-  email: example@email.com
+  email: wang929812032@163.com
 
 
 # Syntax highlighting
