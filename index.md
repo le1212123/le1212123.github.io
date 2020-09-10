@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello
-subtitle: My name is XiaoLE
+subtitle: My name is XiaoLe
 sitemap:
   priority: 0.9
 ---
