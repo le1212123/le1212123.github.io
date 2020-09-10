@@ -3,7 +3,7 @@ layout: page
 title:  "样品"
 subtitle: "解释"
 date:   2020-09-10 16:14:21 +0530
-categories: ["总的"]
+categories: ["样式"]
 ---
 
 第1段...

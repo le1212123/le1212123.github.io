@@ -3,7 +3,7 @@ layout: page
 title: "帖子的样式"
 subtitle: "副标题"
 date:   2020-09-11 16:14:21 +0530
-categories: 总的
+categories: 样式
 author: "Bart Simpson"
 meta: "Springfield"
 ---
