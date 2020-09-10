@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "帖子的样式"
-subtitle: "This is a subtitle"
+subtitle: "副标题"
 date:   2020-09-11 16:14:21 +0530
 categories: 总的
 author: "Bart Simpson"
@@ -71,20 +71,3 @@ meta: "Springfield"
 
 内容...
 ### 标题4
-
-标题 1                 | 标题 2                | 标题 3                | 标题 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit  
-
-
-不均的列
-
-标题 1 | 标题 2 | 标题 3 | 标题 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur

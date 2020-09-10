@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 摘要
+title: 个人介绍
 subtitle: 即将毕业的网站开发师
 ---
 
@@ -8,9 +8,12 @@ subtitle: 即将毕业的网站开发师
 <br>
 
 ### 技能
-``` 基本掌握HTMl和CSS，粗浅认识PHP  ```  
+``` 基本掌握HTMl和CSS，粗浅认识PHP，熟练并掌握vscode,navicat等常用工具 ```  
 
 ### 工程项目
+
+**大尚鞋业** - HTML+css- 地点:学校 <span style="float: right; ">2018年9月25日</span>  
+使用html和css设计大尚鞋业公司相关产品展示页面
 
 **厨神小当家** - HTML+css- 地点:学校 <span style="float: right; ">2019年1月15日</span>  
 使用html和css设计美食网站页面
