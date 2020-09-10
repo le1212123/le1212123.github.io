@@ -2,7 +2,7 @@
 layout: page
 title: "帖子的样式"
 subtitle: "副标题"
-date:   2020-09-11 16:14:21 +0530
+date:   2020-10-11 16:14:21 +0530
 categories: 其他
 author: "Bart Simpson"
 meta: "Springfield"
