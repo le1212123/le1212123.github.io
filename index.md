@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/xiaole.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<p>该博客专注于简单，速效，可读性</p>
