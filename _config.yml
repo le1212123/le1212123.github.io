@@ -1,14 +1,14 @@
 # Site settings （des..简介）
-title: xiaole
+title: 小乐
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  学而不思则罔，思而不学则殆
 
 baseurl: "" # the subpath of your site, e.g. /blog/ （网站的域名的根）
 url: "https://le1212123.github.io" # the base hostname & protocol for your site （用户名URl）
 
 author:
-  fullname: xiale # 作者
-  github: github
+  fullname: 小乐
+  github: https://github.com/le1212123
   email: wang929812032@163.com
 
 
