@@ -8,7 +8,7 @@ subtitle: 即将毕业的网站开发师
 <br>
 
 ### 技能
-``` 基本掌握HTMl和CSS，粗浅认识PHP，熟练并掌握vscode,navicat等常用工具 ```  
+``` 基本掌握HTMl和CSS，粗浅认识PHP，熟练并掌握vscode,navicat等常用编程工具 ```  
 
 ### 工程项目
 
@@ -33,11 +33,11 @@ subtitle: 即将毕业的网站开发师
  
 阳春市第三中学 <span style="float: right; "></span>  
 **课程**  
-高中
+高中课程
 
 阳春市第三中学 <span style="float: right; "></span>  
 **课程**  
-初中
+初中课程
 
 ### 经验
 
