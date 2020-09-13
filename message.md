@@ -3,7 +3,7 @@ layout: self
 title: 留言板
 subtitle: 你的留言是对我们最大的支持！
 ---
-
+<div style="centent">
 <form action="" method="GET">
     <p>昵称:<input type="text" name="name"></p>
     <p>
@@ -22,4 +22,4 @@ subtitle: 你的留言是对我们最大的支持！
     </p>
 
 </form>
-
+</div>
