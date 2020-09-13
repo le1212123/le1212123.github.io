@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 博客
-subtitle: 感谢你的选择！
+subtitle: 感谢你的浏览！
 ---
 
 <div>
