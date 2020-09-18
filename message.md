@@ -24,7 +24,7 @@ subtitle: 你的留言是对我们最大的支持！
 </form>
 </div> -->
 
-<?php 
+<!-- <?php
 $link = mysqli_connect("127.0.0.1","root","root","liuyan") or exit("数据库连接失败！");
 mysqli_set_charset($link,'utf8');
 $sql = "SELECT * FROM content";
@@ -38,5 +38,6 @@ while($row)
     $data = $row;
 }
 var_dump($row);
-mysqli_close($link);
-?>
+mysqli_close($link); -->
+
+{% include page/about.html %}
