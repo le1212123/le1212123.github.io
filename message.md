@@ -4,7 +4,7 @@ title: 留言板
 subtitle: 你的留言是对我们最大的支持！
 ---
 
-<!-- <div style="text-align: center;">
+<div style="text-align: center;">
 <form action="" method="GET">
     <p>昵称：<input type="text" name="name"></p>
     <p>
@@ -22,7 +22,7 @@ subtitle: 你的留言是对我们最大的支持！
     <input type="reset" value="重置">
     </p>
 </form>
-</div> -->
+</div>
 
 <!-- <?php
 $link = mysqli_connect("127.0.0.1","root","root","liuyan") or exit("数据库连接失败！");
@@ -40,4 +40,4 @@ while($row)
 var_dump($row);
 mysqli_close($link); -->
 
-{% include page/about.html %}
+<!-- {% include page/about.html %} -->
