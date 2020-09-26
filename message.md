@@ -5,7 +5,7 @@ subtitle: 你的留言是对我们最大的支持！
 ---
 
 <div style="text-align: center;">
-<form action="./assets/php/message.php" method="GET">
+<form action="" method="GET">
     <p>昵称：<input type="text" name="name"></p>
     <p>
     性别：<input type="radio" name="sex" value="男"> 男
