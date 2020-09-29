@@ -5,8 +5,8 @@
     font-size: 100%;
     color: #012;
     background: url("../img/bg.gif") no-repeat;
-    background-size: auto 100%;
-    cursor: url("../img/cursor.ico") default;
+    background-size: auto auto;
+    cursor: url("../img/cursor.ico"),default;
   }
 
   a {
@@ -15,7 +15,7 @@
     text-decoration: none; }
 
   a:hover{
-    color: #57A;
+    color: #FC7921;
     cursor: url("../img/cursor_hover.ico");
   }
 
@@ -58,13 +58,13 @@
   
     font-family: "Helvetica Neue",Helvetica,Verdana,Arial,sans-serif;
     font-size: 12px;
-    cursor: url(https://files.cnblogs.com/files/liyunhang/sb2.ico),default;
-    height: 1000px;
+    cursor: url("../img/cursor_hover.ico");
+    /* height: 1000px; */
     color: #555;
     opacity: 0.80;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     width: 85%;
-    min-width: 950px;
+    /* min-width: 950px; */
     background-color: #f2f2f2;
     padding: 30px;
     margin-top: 30px;
