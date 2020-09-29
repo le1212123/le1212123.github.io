@@ -5,7 +5,7 @@
     font-size: 100%;
     color: #012;
     background: url("../img/bg.gif") no-repeat;
-    background-size: auto 100%;
+    background-size: 100% 100%;
     background-position: center;
     cursor: url("../img/cursor.ico"),default;
   }
