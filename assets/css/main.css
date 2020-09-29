@@ -4,13 +4,20 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    background-color: #FFFACD; 
+    background: url("../img/bg.gif") no-repeat;
+    background-size: 100% 100%;
+    cursor: url("../img/cursor.ico") default;
   }
 
   a {
-    color: #57A;
+    color:#6a6a6a;
     font-weight: bold;
     text-decoration: none; }
+
+  a:hover{
+    color: #57A;
+    cursor: url("../img/cursor_hover.ico");
+  }
 
   p, ul, ol, dl {
     font-size: 100%;
