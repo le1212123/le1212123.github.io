@@ -17,8 +17,8 @@
     color: #FC7921;
     cursor: url("../img/cursor_hover.ico"),default;
   }
-
-  .list-posts .post-teaser a:hover {
+  
+  a:hover {
     color: #FC7921;
   }
   p, ul, ol, dl {
