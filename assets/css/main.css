@@ -17,7 +17,9 @@
     color: #FC7921;
     cursor: url("../img/cursor_hover.ico"),default;
   }
-
+  a:hover {
+    color: #FC7921;
+  }
   p, ul, ol, dl {
     font-size: 100%;
     line-height: 32px; }
