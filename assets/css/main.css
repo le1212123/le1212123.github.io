@@ -6,8 +6,8 @@
     color: #012;
     cursor: url("../img/cursor.ico"),default;
     /* background-color: lemonchiffon; */
-    background: url("../img/che1.png");
-    background-position: center;
+    background: url("../img/niao.png") no-repeat top;
+    background: url("../img/che2.png") no-repeat bottom;
   }
 
   a {
@@ -59,7 +59,7 @@
   .wrapper {
     max-width: 90%;
     margin: 60px auto; 
-  
+    background: url("../img/che3.png") no-repeat center;
     font-family: "Helvetica Neue",Helvetica,Verdana,Arial,sans-serif;
     /* cursor: url("../img/cursor_hover.ico"); */
     color: black;
