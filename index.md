@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: self
 title: Hello
 subtitle: My name is XiaoLe
 sitemap:
