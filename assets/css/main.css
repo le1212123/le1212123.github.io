@@ -5,7 +5,9 @@
     font-size: 100%;
     color: #012;
     cursor: url("../img/cursor.ico"),default;
-    background-color: lemonchiffon;
+    /* background-color: lemonchiffon; */
+    background: url("../img/che1.png");
+    background-position: center;
   }
 
   a {
